@@ -23,6 +23,8 @@ public class Palindrome {
 		}
 		
 		System.out.print(rev + "---" + msg);
+
+		// hi satya.....
 		
 	}
 }
